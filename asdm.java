@@ -7,6 +7,8 @@ public class asdm {
         System.out.println(a / b);
         System.out.println(a * b);
         System.out.println(a % b);
+        System.out.println(a<<b);
+
 
     }
 }
